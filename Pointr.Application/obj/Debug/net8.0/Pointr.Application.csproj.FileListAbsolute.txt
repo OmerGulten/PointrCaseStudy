@@ -1,0 +1,15 @@
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\bin\Debug\net8.0\Pointr.Application.deps.json
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\bin\Debug\net8.0\Pointr.Application.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\bin\Debug\net8.0\Pointr.Application.pdb
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\bin\Debug\net8.0\Pointr.Domain.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\bin\Debug\net8.0\Pointr.Domain.pdb
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.Application.csproj.AssemblyReference.cache
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.Application.AssemblyInfoInputs.cache
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.Application.AssemblyInfo.cs
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.Application.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.A.E6F16A79.Up2Date
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.Application.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\refint\Pointr.Application.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\Pointr.Application.pdb
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Application\obj\Debug\net8.0\ref\Pointr.Application.dll

@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  pages_db:
+    image: postgres:16
+    container_name: pages-db
+    restart: always
+    environment:
+      POSTGRES_USER: postgrePointr
+      POSTGRES_PASSWORD: postgrePointr123
+      POSTGRES_DB: CaseStudyPointr
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  pages_data:

@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.application\\services\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|solutionrelative:pointr.application\\services\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|solutionrelative:pointr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.application\\interfaces\\ipageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|solutionrelative:pointr.application\\interfaces\\ipageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\repositories\\pagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\repositories\\pagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|solutionrelative:pointr.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.application\\interfaces\\ipagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|solutionrelative:pointr.application\\interfaces\\ipagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\data\\configurations\\pageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\data\\configurations\\pageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84CDFA1-D8BA-4B8E-A3FC-FA8FBD8718C0}|Pointr.Domain\\Pointr.Domain.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.domain\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84CDFA1-D8BA-4B8E-A3FC-FA8FBD8718C0}|Pointr.Domain\\Pointr.Domain.csproj|solutionrelative:pointr.domain\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\DECISIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:DECISIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.tests\\testingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|solutionrelative:pointr.tests\\testingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.api\\models\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|solutionrelative:pointr.api\\models\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.api\\models\\pagepublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|solutionrelative:pointr.api\\models\\pagepublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84CDFA1-D8BA-4B8E-A3FC-FA8FBD8718C0}|Pointr.Domain\\Pointr.Domain.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.domain\\entities\\pagepublished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84CDFA1-D8BA-4B8E-A3FC-FA8FBD8718C0}|Pointr.Domain\\Pointr.Domain.csproj|solutionrelative:pointr.domain\\entities\\pagepublished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84CDFA1-D8BA-4B8E-A3FC-FA8FBD8718C0}|Pointr.Domain\\Pointr.Domain.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.domain\\entities\\pagedraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84CDFA1-D8BA-4B8E-A3FC-FA8FBD8718C0}|Pointr.Domain\\Pointr.Domain.csproj|solutionrelative:pointr.domain\\entities\\pagedraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\data\\configurations\\pagedraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\data\\configurations\\pagedraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\data\\configurations\\pagepublishedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\data\\configurations\\pagepublishedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:22:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Repositories\\PageRepository.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Repositories\\PageRepository.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Repositories\\PageRepository.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Repositories\\PageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:56:42.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Domain\\Entities\\Page.cs",
+              "RelativeDocumentMoniker": "Pointr.Domain\\Entities\\Page.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Domain\\Entities\\Page.cs",
+              "RelativeToolTip": "Pointr.Domain\\Entities\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:53:08.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPageService.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Interfaces\\IPageService.cs",
+              "RelativeDocumentMoniker": "Pointr.Application\\Interfaces\\IPageService.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Interfaces\\IPageService.cs",
+              "RelativeToolTip": "Pointr.Application\\Interfaces\\IPageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:25:25.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.API\\Program.cs",
+              "RelativeDocumentMoniker": "Pointr.API\\Program.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.API\\Program.cs",
+              "RelativeToolTip": "Pointr.API\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:03:59.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageService.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Services\\PageService.cs",
+              "RelativeDocumentMoniker": "Pointr.Application\\Services\\PageService.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Services\\PageService.cs",
+              "RelativeToolTip": "Pointr.Application\\Services\\PageService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAvwHUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:05:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Interfaces\\IPageRepository.cs",
+              "RelativeDocumentMoniker": "Pointr.Application\\Interfaces\\IPageRepository.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Interfaces\\IPageRepository.cs",
+              "RelativeToolTip": "Pointr.Application\\Interfaces\\IPageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:16:34.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DECISIONS.md",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\DECISIONS.md",
+              "RelativeDocumentMoniker": "DECISIONS.md",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\DECISIONS.md",
+              "RelativeToolTip": "DECISIONS.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-25T15:17:38.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestingFactory.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Tests\\TestingFactory.cs",
+              "RelativeDocumentMoniker": "Pointr.Tests\\TestingFactory.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Tests\\TestingFactory.cs",
+              "RelativeToolTip": "Pointr.Tests\\TestingFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T00:51:35.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Pointr.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Pointr.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:46:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageDto.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.API\\Models\\PageDto.cs",
+              "RelativeDocumentMoniker": "Pointr.API\\Models\\PageDto.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.API\\Models\\PageDto.cs",
+              "RelativeToolTip": "Pointr.API\\Models\\PageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:00:00.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PageConfiguration.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Data\\Configurations\\PageConfiguration.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PageConfiguration.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Data\\Configurations\\PageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:52:48.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagePublishedDto.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.API\\Models\\PagePublishedDto.cs",
+              "RelativeDocumentMoniker": "Pointr.API\\Models\\PagePublishedDto.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.API\\Models\\PagePublishedDto.cs",
+              "RelativeToolTip": "Pointr.API\\Models\\PagePublishedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:46:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PageDraft.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Domain\\Entities\\PageDraft.cs",
+              "RelativeDocumentMoniker": "Pointr.Domain\\Entities\\PageDraft.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Domain\\Entities\\PageDraft.cs",
+              "RelativeToolTip": "Pointr.Domain\\Entities\\PageDraft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:13:58.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagePublished.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Domain\\Entities\\PagePublished.cs",
+              "RelativeDocumentMoniker": "Pointr.Domain\\Entities\\PagePublished.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Domain\\Entities\\PagePublished.cs",
+              "RelativeToolTip": "Pointr.Domain\\Entities\\PagePublished.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:58:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:29:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PageDraftConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:14:17.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PagePublishedConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PagePublishedConfiguration.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Data\\Configurations\\PagePublishedConfiguration.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PagePublishedConfiguration.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Data\\Configurations\\PagePublishedConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:59:11.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

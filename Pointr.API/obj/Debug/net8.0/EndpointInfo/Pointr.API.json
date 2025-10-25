@@ -1,0 +1,196 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Pointr.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/v1/sites/{siteId}/pages/{slug}": {
+      "delete": {
+        "tags": [
+          "Program"
+        ],
+        "operationId": "DeleteAndMaybePublish",
+        "parameters": [
+          {
+            "name": "siteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "publishDraft",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "No Content"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "409": {
+            "description": "Conflict"
+          }
+        }
+      }
+    },
+    "/api/v1/sites/{siteId}/pages/{slug}/published": {
+      "get": {
+        "tags": [
+          "Program"
+        ],
+        "operationId": "GetPublishedPage",
+        "parameters": [
+          {
+            "name": "siteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Page"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Page": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "siteId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "slug": {
+            "type": "string",
+            "nullable": true
+          },
+          "isArchived": {
+            "type": "boolean"
+          },
+          "rowVersion": {
+            "type": "string",
+            "format": "byte",
+            "nullable": true
+          },
+          "updatedUtc": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "pageDrafts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PageDraft"
+            },
+            "nullable": true
+          },
+          "pagePublished": {
+            "$ref": "#/components/schemas/PagePublished"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PageDraft": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "pageId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "draftNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "content": {
+            "type": "string",
+            "nullable": true
+          },
+          "page": {
+            "$ref": "#/components/schemas/Page"
+          },
+          "pagePublished": {
+            "$ref": "#/components/schemas/PagePublished"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PagePublished": {
+        "type": "object",
+        "properties": {
+          "pageId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "draftId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "publishedUtc": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "page": {
+            "$ref": "#/components/schemas/Page"
+          },
+          "draft": {
+            "$ref": "#/components/schemas/PageDraft"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

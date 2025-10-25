@@ -1,0 +1,11 @@
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\bin\Debug\net8.0\Pointr.Domain.deps.json
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\bin\Debug\net8.0\Pointr.Domain.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\bin\Debug\net8.0\Pointr.Domain.pdb
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.AssemblyInfoInputs.cache
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.AssemblyInfo.cs
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\refint\Pointr.Domain.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.pdb
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\ref\Pointr.Domain.dll
