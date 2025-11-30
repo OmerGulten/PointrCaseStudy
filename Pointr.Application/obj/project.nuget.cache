@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1veGar+BfI=",
+  "dgSpecHash": "z1II7MtuNvE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Application\\Pointr.Application.csproj",
+  "projectFilePath": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Application\\Pointr.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerg\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
     "C:\\Users\\omerg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.10\\microsoft.entityframeworkcore.abstractions.9.0.10.nupkg.sha512",
@@ -16,8 +16,7 @@
     "C:\\Users\\omerg\\.nuget\\packages\\microsoft.extensions.options\\9.0.10\\microsoft.extensions.options.9.0.10.nupkg.sha512",
     "C:\\Users\\omerg\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
     "C:\\Users\\omerg\\.nuget\\packages\\polly\\8.6.4\\polly.8.6.4.nupkg.sha512",
-    "C:\\Users\\omerg\\.nuget\\packages\\polly.core\\8.6.4\\polly.core.8.6.4.nupkg.sha512",
-    "C:\\Users\\omerg\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.10\\system.diagnostics.diagnosticsource.9.0.10.nupkg.sha512"
+    "C:\\Users\\omerg\\.nuget\\packages\\polly.core\\8.6.4\\polly.core.8.6.4.nupkg.sha512"
   ],
   "logs": []
 }

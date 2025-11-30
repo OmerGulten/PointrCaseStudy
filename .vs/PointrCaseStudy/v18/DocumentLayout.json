@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|d:\\users\\user\\source\\repos\\pointrcasestudy\\pointr.tests\\testingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|solutionrelative:pointr.tests\\testingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|d:\\users\\user\\source\\repos\\pointrcasestudy\\pointr.tests\\archivepublishtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|solutionrelative:pointr.tests\\archivepublishtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|d:\\users\\user\\source\\repos\\pointrcasestudy\\pointr.application\\services\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6639A7E-2EA3-4139-8BA8-1DABA6C06DDA}|Pointr.Application\\Pointr.Application.csproj|solutionrelative:pointr.application\\services\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|d:\\users\\user\\source\\repos\\pointrcasestudy\\pointr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF47FD9F-A275-49AF-8A1B-81BAAD281BA2}|Pointr.API\\Pointr.API.csproj|solutionrelative:pointr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|d:\\users\\user\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\data\\configurations\\pagedraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\data\\configurations\\pagedraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchivePublishTests.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Tests\\ArchivePublishTests.cs",
+              "RelativeDocumentMoniker": "Pointr.Tests\\ArchivePublishTests.cs",
+              "ToolTip": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Tests\\ArchivePublishTests.cs",
+              "RelativeToolTip": "Pointr.Tests\\ArchivePublishTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:59:30.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestingFactory.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Tests\\TestingFactory.cs",
+              "RelativeDocumentMoniker": "Pointr.Tests\\TestingFactory.cs",
+              "ToolTip": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Tests\\TestingFactory.cs",
+              "RelativeToolTip": "Pointr.Tests\\TestingFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:59:23.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-25T10:42:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Pointr.API\\appsettings.json",
+              "ToolTip": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.API\\appsettings.json",
+              "RelativeToolTip": "Pointr.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T10:41:45.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageService.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Application\\Services\\PageService.cs",
+              "RelativeDocumentMoniker": "Pointr.Application\\Services\\PageService.cs",
+              "ToolTip": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Application\\Services\\PageService.cs",
+              "RelativeToolTip": "Pointr.Application\\Services\\PageService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:30:24.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageDraftConfiguration.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "ToolTip": "D:\\Users\\User\\Source\\Repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Data\\Configurations\\PageDraftConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:09:26.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

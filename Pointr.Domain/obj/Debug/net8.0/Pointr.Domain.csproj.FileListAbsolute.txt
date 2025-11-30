@@ -9,3 +9,16 @@ C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Point
 C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\refint\Pointr.Domain.dll
 C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.pdb
 C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\ref\Pointr.Domain.dll
+C:\Users\omerg\source\repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.sourcelink.json
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\bin\Debug\net8.0\Pointr.Domain.deps.json
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\bin\Debug\net8.0\Pointr.Domain.dll
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\bin\Debug\net8.0\Pointr.Domain.pdb
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.AssemblyInfoInputs.cache
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.AssemblyInfo.cs
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.csproj.CoreCompileInputs.cache
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.sourcelink.json
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.dll
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\refint\Pointr.Domain.dll
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\Pointr.Domain.pdb
+D:\Users\User\Source\Repos\PointrCaseStudy\Pointr.Domain\obj\Debug\net8.0\ref\Pointr.Domain.dll

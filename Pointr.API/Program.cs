@@ -53,7 +53,8 @@ namespace Pointr.API
                .Produces(StatusCodes.Status204NoContent)
                .Produces(StatusCodes.Status404NotFound)
                .Produces(StatusCodes.Status400BadRequest)
-               .Produces(StatusCodes.Status409Conflict);
+               .Produces(StatusCodes.Status409Conflict)
+               .Produces(StatusCodes.Status500InternalServerError); // eklememişiz.
 
             app.MapGet("api/v1/sites/{siteId}/pages/{slug}/published", GetPublishedPage)
                .WithName("GetPublishedPage")

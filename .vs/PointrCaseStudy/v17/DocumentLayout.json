@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B7461-5F71-4B10-ACA9-720E4CE2119A}|Pointr.Infrastructure\\Pointr.Infrastructure.csproj|solutionrelative:pointr.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|c:\\users\\omerg\\source\\repos\\pointrcasestudy\\pointr.tests\\archivepublishtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6095E2-33E8-434B-B708-2D833F18708C}|Pointr.Tests\\Pointr.Tests.csproj|solutionrelative:pointr.tests\\archivepublishtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +43,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:03:38.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Pointr.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:22:58.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArchivePublishTests.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Tests\\ArchivePublishTests.cs",
+              "RelativeDocumentMoniker": "Pointr.Tests\\ArchivePublishTests.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\PointrCaseStudy\\Pointr.Tests\\ArchivePublishTests.cs",
+              "RelativeToolTip": "Pointr.Tests\\ArchivePublishTests.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:08:25.429Z"
             }
           ]
         }
